@@ -4,6 +4,8 @@ Planilha em Excel para juntar, em um só lugar, tudo o que é preciso para preen
 
 > ⚠️ Todos os dados da planilha são **fictícios** (nome, CPF, endereço, bancos e valores). Nenhuma informação real foi publicada.
 
+📥 **[Baixar a planilha (CONTROLE_IR.xlsx)](planilha/CONTROLE_IR.xlsx)**
+
 ## Objetivo
 
 Deixar a organização da declaração simples: abrir a planilha, preencher uma vez ao longo do ano e, na hora de declarar, ter os totais e a lista de documentos prontos.
